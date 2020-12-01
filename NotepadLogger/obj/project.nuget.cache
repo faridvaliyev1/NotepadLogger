@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "MW+NpCvBNcsFq0EP1fI2lajgvk/xglZjz1CGks4OKjV+yYRCyPg0UHgrSJyCEYDnG4XuCJR9/DiD5Fl9g/d0Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Farid\\source\\repos\\NotepadLogger\\NotepadLogger\\NotepadLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.4\\microsoft.extensions.configuration.binder.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.logging\\3.1.4\\microsoft.extensions.logging.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.4\\microsoft.extensions.logging.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.objectpool\\3.1.4\\microsoft.extensions.objectpool.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.4\\microsoft.extensions.options.configurationextensions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\notepad.extensions.logging\\1.0.3\\notepad.extensions.logging.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
